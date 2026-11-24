@@ -1,1 +1,1 @@
-# Diagnostico
+git init
